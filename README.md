@@ -108,5 +108,7 @@ npm run preview
 
 ---
 
+develped by Engr Faisal Khan
+
 ## 📜 License
 MIT License. Developed for the CyberSNova Learning Management System Internship Task.
